@@ -14,10 +14,6 @@ Articles and documentations about software engineering workflow processes, techn
 * [Unit Tests are the Best Documentation](https://capgemini.github.io/development/unit-tests-as-documentation/)
 
 
-## Components of Software Architecture
-
-
-
 ## Understanding What a Service Is
 ### Software Architecture 
 Components of software architecture that constitute **applications**.

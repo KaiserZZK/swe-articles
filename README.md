@@ -1,7 +1,7 @@
 # swe-articles
 Articles and documentations about software engineering workflow processes, techniques, "best practices", and so on. Inspired by Prof. Gail Kaiser's COMS W4156 Advanced Software Engineering course.
 
-## Human Scalability
+## 👥 Human Scalability
 ### Teamwork Fundamentals
 * [Coping with Hitchhikers and Couch Potatoes on Teams](https://www2.isye.gatech.edu/~jvandeva/Classes/4106/CouchPotatoes.pdf)
 * [Pair Programming](https://martinfowler.com/articles/on-pair-programming.html)
@@ -15,7 +15,7 @@ Articles and documentations about software engineering workflow processes, techn
 * [Pull Requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)
 * [Release Tags](https://git-scm.com/book/en/v2/Git-Basics-Tagging)
 
-## Code Readability and Maintainability
+## 🛠️ Code Readability and Maintainability
 ### Coding Style
 * [Google Style Guides](https://google.github.io/styleguide/)
 * Style Checkers
@@ -29,7 +29,7 @@ Articles and documentations about software engineering workflow processes, techn
 * [README.md files](https://google.github.io/styleguide/docguide/READMEs.html)
 * Documentation checker: [Vale](https://github.com/errata-ai/vale)
 
-## Understanding What a Service Is
+## 🛎️ Understanding What a Service Is
 ### Software Architecture 
 Components of software architecture that constitute **applications**.
 * [What Are Frontend and Backend in App Development?](https://www.lizard.global/blog/what-are-frontend-and-backend-in-app-development)

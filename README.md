@@ -4,15 +4,30 @@ Articles and documentations about software engineering workflow processes, techn
 ## Human Scalability
 ### Teamwork Fundamentals
 * [Coping with Hitchhikers and Couch Potatoes on Teams](https://www2.isye.gatech.edu/~jvandeva/Classes/4106/CouchPotatoes.pdf)
+* [Pair Programming](https://martinfowler.com/articles/on-pair-programming.html)
+* [Code Reviews](https://www.eferro.net/2021/09/code-reviews-synchronous-and.html)
 ### Version Control
+* [Basic Version Control](https://github.com/git-guides)
+* [Merging Changes](https://git-scm.com/docs/git-merge)
+* [Auto-Merge](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/incorporating-changes-from-a-pull-request/automatically-merging-a-pull-request)
 * [Manual Resolution](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/about-merge-conflicts)
+* [Branches](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches)
+* [Pull Requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)
+* [Release Tags](https://git-scm.com/book/en/v2/Git-Basics-Tagging)
 
 ## Code Readability and Maintainability
 ### Coding Style
-
+* [Google Style Guides](https://google.github.io/styleguide/)
+* Style Checkers
+  * [checkstyle](https://github.com/checkstyle/checkstyle)
+  * [SonarLint](https://www.sonarsource.com/products/sonarlint/)
+  * Style-checking automation: [git pre-commit hook](https://git-scm.com/book/en/v2/Customizing-Git-Git-Hooks)
 ### Code Documentation
+* [Google Engineering Practices Documentation](https://google.github.io/eng-practices/)
+* [Documentation Best Practices](https://google.github.io/styleguide/docguide/best_practices.html)
 * [Unit Tests are the Best Documentation](https://capgemini.github.io/development/unit-tests-as-documentation/)
-
+* [README.md files](https://google.github.io/styleguide/docguide/READMEs.html)
+* Documentation checker: [Vale](https://github.com/errata-ai/vale)
 
 ## Understanding What a Service Is
 ### Software Architecture 
@@ -28,6 +43,8 @@ Software delivery model for end users to access **software applications** over t
 ### Application Programming Interfaces (APIs)
 * [What is an API?](https://www.redhat.com/en/topics/api/what-are-application-programming-interfaces)
 * [Most Popular APIs in 2022](https://www.postman.com/explore/most-popular-apis-this-year)
+* [n0shake/Public-APIs](https://github.com/n0shake/Public-APIs)
+* [public-apis/public-apis](https://github.com/public-apis/public-apis)
 ### Common Entry Points of APIs
 * [Asynchronous Messages](https://www.mendix.com/blog/asynchronous-vs-synchronous-programming/)
 * [Callbacks](https://medium.com/@cortneythomas/what-is-a-callback-8734a08605cb)

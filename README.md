@@ -64,3 +64,12 @@ Software delivery model for end users to access **software applications** over t
 * [Frameworks](https://www.red-gate.com/simple-talk/development/other-development/the-difference-between-libraries-and-frameworks/)
 ### Microservices
 * [4 Microservices Examples: Amazon, Netflix, Uber, and Etsy](https://blog.dreamfactory.com/microservices-examples/)
+
+## 🌱 Real-World Case Studies
+
+### C++ in Finance Industry
+* [Trading Systems - CppCast](https://open.spotify.com/episode/0m7QrAe4Pn4As7A2eENs8n)
+
+### Functional Programming Use Cases 
+* [Fighting spam with Haskell](https://engineering.fb.com/2015/06/26/security/fighting-spam-with-haskell/)
+* [Functional Programming at Verizon OnCue](http://cufp.org/2014/timothy-perrett-functional-programming-at-verizon-oncue.html)

@@ -65,6 +65,11 @@ Software delivery model for end users to access **software applications** over t
 ### Microservices
 * [4 Microservices Examples: Amazon, Netflix, Uber, and Etsy](https://blog.dreamfactory.com/microservices-examples/)
 
+## 🔌 Technical Aspects of APIs
+Previously, we have had a high-level view of what APIs are and examined their differences with applications. We now take a closer look at their technical details.
+
+
+
 ## 🌱 Real-World Case Studies
 
 ### C++ in Finance Industry

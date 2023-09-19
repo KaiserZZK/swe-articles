@@ -49,9 +49,6 @@ Software delivery model for end users to access **software applications** over t
 * [Asynchronous Messages](https://www.mendix.com/blog/asynchronous-vs-synchronous-programming/)
 * [Callbacks](https://medium.com/@cortneythomas/what-is-a-callback-8734a08605cb)
 * [References to Data](https://thenewstack.io/the-fundamentals-of-data-api-design/)
-### States of Services
-* [Stateful vs. Stateless: Understanding the Key Differences ](https://www.spiceworks.com/tech/cloud/articles/stateful-vs-stateless/)
-* [Planning persistent storage](https://www.ibm.com/docs/en/cloud-private/3.2.x?topic=storage-planning-persistent)
 ### Additional Infrastructure Needed to Call Service Functions
 * Remote procedure
   * [gRPC](https://grpc.io/)
@@ -73,8 +70,10 @@ Previously, we have had a high-level view of what APIs are and examined their di
 * [API requests: GET vs. POST](https://www.diffen.com/difference/GET-vs-POST-HTTP-Requests)
 
 ### RESTful APIs: states
+* [Stateful vs. Stateless: Understanding the Key Differences ](https://www.spiceworks.com/tech/cloud/articles/stateful-vs-stateless/)
 * [Stateful vs Stateless Architecture](https://www.youtube.com/watch?v=P8D6P-6KVNM)
 * [Stateful vs Stateless: Full Difference](https://www.interviewbit.com/blog/stateful-vs-stateless/)
+* [Planning persistent storage](https://www.ibm.com/docs/en/cloud-private/3.2.x?topic=storage-planning-persistent)
 
 ### RESTful APIs: Java implementation
 Kudos to Griffin Newbold for the following 2 articles.

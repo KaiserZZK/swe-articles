@@ -84,6 +84,12 @@ Kudos to Griffin Newbold for the following 2 articles.
 * [RPC in Operating System](https://www.geeksforgeeks.org/remote-procedure-call-rpc-in-operating-system/)
 * [What's the Difference Between RPC and REST?](https://aws.amazon.com/compare/the-difference-between-rpc-and-rest/)
 
+### Stateful Architecture
+REST APIs are stateless because, rather than relying on the server remembering previous requests, REST applications require each request to contain all of the information necessary for the server to understand it; since we have already investigated REST APIs, here are some examples of stateful architecture.
+* [Stateful and stateless architecture design](https://www.linkedin.com/pulse/stateful-stateless-architecture-design-milad-rezaeighale/)
+* [How Do Stateful Applications Work?](https://blog.dreamfactory.com/stateful-vs-stateless-web-app-design/#1)
+* [Why Stateless Won](https://www.virtasant.com/blog/stateful-vs-stateless-architecture-why-stateless-won)
+
 ## 🌱 Real-World Case Studies
 
 ### C++ in Finance Industry

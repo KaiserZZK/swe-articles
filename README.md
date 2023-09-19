@@ -68,6 +68,23 @@ Software delivery model for end users to access **software applications** over t
 ## 🔌 Technical Aspects of APIs
 Previously, we have had a high-level view of what APIs are and examined their differences with applications. We now take a closer look at their technical details.
 
+### RESTful APIs: the fundamentals
+* [What is REST](https://restfulapi.net/)
+* [API requests: GET vs. POST](https://www.diffen.com/difference/GET-vs-POST-HTTP-Requests)
+
+### RESTful APIs: states
+* [Stateful vs Stateless Architecture](https://www.youtube.com/watch?v=P8D6P-6KVNM)
+* [Stateful vs Stateless: Full Difference](https://www.interviewbit.com/blog/stateful-vs-stateless/)
+
+### RESTful APIs: Java implementation
+Kudos to Griffin Newbold for the following 2 articles.
+* [Easily build a REST API with Spring Framework](https://medium.com/analytics-vidhya/easily-build-your-rest-api-with-spring-framework-80941c359d44)
+* [Building REST services with Spring](https://spring.io/guides/tutorials/rest/)
+
+### RPC-based APIs
+* [RPC in Operating System](https://www.geeksforgeeks.org/remote-procedure-call-rpc-in-operating-system/)
+* [What's the Difference Between RPC and REST?](https://aws.amazon.com/compare/the-difference-between-rpc-and-rest/)
+
 ## 🌱 Real-World Case Studies
 
 ### C++ in Finance Industry
